@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: 20px;        
+}
+
+.A1, .A3, .B2, .C1, .C3 {
+    background: #850000; 
+    width:200px; 
+    height:200px; 
+    float:left
+}
+
+.A2, .B1, .B3, .C2 {
+    background:#ffffff; 
+    width:200px; 
+    height:200px; 
+    float:left
+}
+
+
+
